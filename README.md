@@ -14,7 +14,6 @@
   - 🤖 Embedded systems (ESP32), REST APIs, and AI-powered tools
 - 🧠 Passionate about LLMs, prompt engineering, and edge-AI applications
 - 🌱 Learning: Performance testing using **Grafana k6**, Jenkins, and API load testing
-- 🎯 Goal: Become a top 1% **SDET II** earning 20+ LPA in the next 1–2 years
 
 ---
 
