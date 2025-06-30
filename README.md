@@ -88,8 +88,8 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/shreyasj211)
-- 📝 [Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyas-jadhav-a90354194/)
+- 📝 [Resume](https://drive.google.com/file/d/1hcRLpo_4Qum3ARCNrgv1Qowv3rPAjwig/view?usp=sharing) <!-- Replace with your actual resume link -->
 - 💡 DM me to collaborate on testing frameworks, LLM tools, or edge-AI projects!
 
 ---
