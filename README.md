@@ -1,102 +1,101 @@
 <h1 align="center">Hi, I'm Shreyas Jadhav 👋</h1>
 
+<div align="center">
+  <em>QA Automation Engineer | Python & C++ Developer | LLM Agent Crafter | Embedded Systems Enthusiast</em>
+</div>
+
+---
+
+###
+
 <p align="center">
-  <em>QA Automation Engineer | Python & C++ Developer | AI & LLM Enthusiast | Embedded Systems Geek</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=QA+Automation+Engineer;Python+%26+C%2B%2B+Developer;AI+%26+LLM+Enthusiast;Embedded+Systems+Geek" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **PriceLabs** as a **QA Automation Engineer - I**
-- 👨‍💻 2.7+ years of experience building:
-  - 🔁 Automation Frameworks using **Cypress, Selenium, Playwright**
-  - 📦 Docker-based solutions for CI/CD pipelines
-  - 🤖 Embedded systems (ESP32), REST APIs, and AI-powered tools
-- 🧠 Passionate about LLMs, prompt engineering, and edge-AI applications
-- 🌱 Learning: Performance testing using **Grafana k6**, Jenkins, and API load testing
+
+- QA Automation Engineer - I @ **PriceLabs**
+- 2.7+ years of experience in:
+  - Building robust QA frameworks using **Cypress**, **Playwright**, **Selenium**
+  - Automating workflows, reducing manual effort by 30%+
+  - Designing **CI/CD pipelines with Docker**
+  - Developing **Python** backends & **ESP32**-based IoT systems
+- Created LLM-driven agents using **LLaMA** for real-time chatbot interactions
+- Passionate about AI, **LLMs**, **prompt engineering**, and test scalability
+- Currently learning **Grafana k6**, **Jenkins**, **WebSocket performance**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧰 Tech Stack
 
-**Languages**: Python | C++ | JavaScript | TypeScript | C  
-**Frameworks**: Cypress | Selenium | Playwright | PyTest  
-**Tools**: Docker | Git | Postman | Jenkins | k6 | WebSockets  
-**Domains**: QA Automation | Embedded Systems | AI/LLM Integration
-
----
-
-### 📂 Featured Projects
-
-#### 🔸 [k6-load-testing](https://github.com/Shrey-211/k6-load-testing)
-
-> 💡 A complete performance testing setup using **Grafana k6**  
-> ✅ Simulates realistic user behavior, API load tests, and collects metrics  
-> 📊 Ideal for evaluating backend performance under stress  
-
-**Features**:
-- Scenario-based tests using JSON and JavaScript  
-- Built-in summary outputs  
-- CI/CD friendly structure
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-#### 🔸 [pyTest](https://github.com/Shrey-211/pyTest)
-
-> 🧪 A fully-featured PyTest project from beginner to advanced levels  
-> ✅ Demonstrates API automation with requests + PyTest  
-
-**Highlights**:
-- Custom fixtures  
-- Parametrized tests  
-- Clean, modular folder structure  
-- 🔥 Great for both learning and real-world API test automation
-
----
-
-#### 🔸 [dji-dock-sim](https://github.com/Shrey-211/dji-dock-sim)
-
-> 🚁 A **DJI Dock simulator** built in Python  
-> ✅ Simulates dock deployment and triggers drone missions via scripts  
-
-**Features**:
-- Dock & drone state simulation  
-- API hooks for mission start/stop  
-- Minimal Python dependencies
-
----
-
-#### 🔸 [esp32-smart-systems](https://github.com/Shrey-211/esp32-smart-systems)
-
-> 🔌 Embedded systems with **ESP32**, sensors, and relays  
-> 🏠 Smart switches, web UI dashboards, and MQTT comms  
-
-**Tech Stack**:
-- C++, I2C, SPI, GPIOs  
-- ESP-IDF / Arduino frameworks
-
----
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrey-211&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrey-211&show_icons=true&theme=github_dark&hide=issues" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey-211&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
+## 🎯 Featured Projects
+
+<div align="center">
+
+✨ Hover on the project links below to explore some 🔥 tech work I’ve done 👇  
+💡 *(Live demos, GIFs, and badges included)*
+
+</div>
+
+---
+
+### 🧪 k6-load-testing  
+> <img src="https://img.shields.io/badge/Grafana-k6-orange?style=flat-square&logo=grafana" />
+> <img src="https://img.shields.io/github/stars/Shrey-211/k6-load-testing?style=social" />
+
+🚀 Performance test suite for **real-world API scenarios**  
+🎯 Written in JavaScript for **k6 CLI**  
+🔄 Designed for **CI pipelines**, complete with load summaries  
+🖼️ `Preview:`  
+![k6-demo](https://raw.githubusercontent.com/Shrey-211/k6-load-testing/main/demo.gif)
+
+[🔗 View Project](https://github.com/Shrey-211/k6-load-testing)
+
+---
+
+### ⚗️ pyTest  
+> <img src="https://img.shields.io/badge/Python-Requests-blue?style=flat-square&logo=python" />
+> <img src="https://img.shields.io/github/stars/Shrey-211/pyTest?style=social" />
+
+🧪 PyTest-based API testing framework using `requests`  
+⚙️ Features include `parametrize`, `fixtures`, and modular repo structure  
+📦 CI-ready and built for scalable testing  
+🖼️ `Preview:`  
+![pytest-demo](https://raw.githubusercontent.com/Shrey-211/pyTest/main/demo.gif)
+
+[🔗 View Project](https://github.com/Shrey-211/pyTest)
+
+---
+
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreyas-jadhav-a90354194/)
-- 📝 [Resume](https://drive.google.com/file/d/1hcRLpo_4Qum3ARCNrgv1Qowv3rPAjwig/view?usp=sharing) <!-- Replace with your actual resume link -->
-- 💡 DM me to collaborate on testing frameworks, LLM tools, or edge-AI projects!
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreyas-jadhav-a90354194/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://drive.google.com/file/d/1hcRLpo_4Qum3ARCNrgv1Qowv3rPAjwig/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-PDF-brightgreen?style=for-the-badge&logo=google-drive" /></a>
+</p>
 
 ---
 
-> *“Quality software is built by great testers. I break things so users don’t have to.”* 🔍💥
-
----
-
-<!-- BANNER OPTION -->
-<!-- Would you like a banner at the top? Ping me and I’ll generate one styled for QA + LLMs + Embedded Systems. -->
+> _“Quality software is built by great testers. I break things so users don’t have to.”_
