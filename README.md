@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shreyas Jadhav 👋</h1>
+<h1 align="center">Hey, Shrey Here... Nice to meet you 👋</h1>
 
 <div align="center">
-  <em>QA Automation Engineer | Python & C++ Developer | LLM Agent Crafter | Embedded Systems Enthusiast</em>
+  <em>QA Automation Engineer | Python, JavaScript & C++ Developer | LLM Agent Crafter | Embedded Systems Enthusiast</em>
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ###
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=QA+Automation+Engineer;Python+%26+C%2B%2B+Developer;AI+%26+LLM+Enthusiast;Embedded+Systems+Geek" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=QA+Automation+Engineer;Python+JavaScript+%26+C%2B%2B+Developer;AI+%26+LLM+Enthusiast;Embedded+Systems+Geek" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 🎯 Written in JavaScript for **k6 CLI**  
 🔄 Designed for **CI pipelines**, complete with load summaries  
 🖼️ `Preview:`  
-![k6-demo](https://raw.githubusercontent.com/Shrey-211/k6-load-testing/main/demo.gif)
+![k6-demo](https://raw.githubusercontent.com/Shrey-211/k6-load-testing/main/demo/demo.gif)
 
 [🔗 View Project](https://github.com/Shrey-211/k6-load-testing)
 
@@ -80,10 +80,10 @@
 > <img src="https://img.shields.io/github/stars/Shrey-211/pyTest?style=social" />
 
 🧪 PyTest-based API testing framework using `requests`  
-⚙️ Features include `parametrize`, `fixtures`, and modular repo structure  
+⚙️ Features include `parametrize`, `fixtures`, and a modular repo structure  
 📦 CI-ready and built for scalable testing  
 🖼️ `Preview:`  
-![pytest-demo](https://raw.githubusercontent.com/Shrey-211/pyTest/main/demo.gif)
+![pytest-demo](https://raw.githubusercontent.com/Shrey-211/pyTest/main/demo/demo.gif)
 
 [🔗 View Project](https://github.com/Shrey-211/pyTest)
 
