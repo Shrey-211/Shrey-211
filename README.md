@@ -1,4 +1,4 @@
-<h1 align="center">Hey, Shrey Here... Nice to meet you 👋</h1>
+<h1 align="center">Hey, Shrey here... Nice to meet you 👋</h1>
 
 <div align="center">
   <em>QA Automation Engineer | Python, JavaScript & C++ Developer | LLM Agent Crafter | Embedded Systems Enthusiast</em>
